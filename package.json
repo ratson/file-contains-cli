@@ -1,6 +1,6 @@
 {
   "name": "file-contains-cli",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Check if file contains or not contains a string pattern.",
   "bin": {
     "file-contains": "cli.js"
